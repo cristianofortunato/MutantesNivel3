@@ -1,0 +1,31 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mutantes", "Mutantes\Mutantes.csproj", "{90238B20-6619-4442-A7D3-D93797DA4E94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mutantes.Test", "Mutantes.Test\Mutantes.Test.csproj", "{D42EA52E-CDE4-4BD0-940E-550731FC4B06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes", "Classes\Classes.csproj", "{FCAC238D-8317-4408-B2A0-15A9EE25157D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90238B20-6619-4442-A7D3-D93797DA4E94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90238B20-6619-4442-A7D3-D93797DA4E94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90238B20-6619-4442-A7D3-D93797DA4E94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90238B20-6619-4442-A7D3-D93797DA4E94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D42EA52E-CDE4-4BD0-940E-550731FC4B06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D42EA52E-CDE4-4BD0-940E-550731FC4B06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D42EA52E-CDE4-4BD0-940E-550731FC4B06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D42EA52E-CDE4-4BD0-940E-550731FC4B06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCAC238D-8317-4408-B2A0-15A9EE25157D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCAC238D-8317-4408-B2A0-15A9EE25157D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCAC238D-8317-4408-B2A0-15A9EE25157D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCAC238D-8317-4408-B2A0-15A9EE25157D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+	EndGlobalSection
+EndGlobal
